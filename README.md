@@ -1,5 +1,5 @@
 # hangman
-# Python version= 3.10
+* Python version= 3.10
 Is a Hangman in terminal  with theer levels 
 1. Noob: Infinity chance.
 2. Mid: Five chance.
