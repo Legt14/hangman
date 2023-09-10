@@ -20,7 +20,7 @@ class Hangman:
                 case 2:
                     return self.levels(difficulty)
                 case 3:
-                    return '3'
+                    return self.levels(difficulty)
 
         except Exception as e:
             return e
